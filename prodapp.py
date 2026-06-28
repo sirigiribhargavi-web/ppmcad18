@@ -1,3 +1,6 @@
 print('githubfeatures-1')
 print('githubfeatures-2')
 print('githubfeatures-3')
+print('git local features-4')
+print('git local features-5')
+print('git local features-6')
